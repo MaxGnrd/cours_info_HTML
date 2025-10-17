@@ -1,7 +1,7 @@
- p.commentaire {
-font-style : "font-family: "Times-New-Roman" , Times, serif;
-text-align : justify ;
-font-size : 18pt ;
-font-colour : "#240F66" ;
-margin-left : 15% ;
+p.commentaire {
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+  font-size: 18pt;
+  color: #240F66;
+  margin-left: 15%;
 }
