@@ -1,7 +1,8 @@
-p {
+p {color: white;
   font-family: "Times New Roman", Times, serif;
   text-align: justify;
   font-size: 18pt;
   color: #240F66;
   margin-left: 15%;
+background-color: black
 }
