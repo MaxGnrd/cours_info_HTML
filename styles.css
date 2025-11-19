@@ -9,6 +9,7 @@ background-color: black
 #jwst-header {
     cursor: pointer
     transition: transform 0.2s ease;
+  backround colour;wite
 }
 
 #jwst-header.animate {
