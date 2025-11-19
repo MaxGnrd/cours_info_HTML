@@ -11,7 +11,9 @@ p {
   cursor: pointer;
   transition: transform 0.2s ease;
   background-color: white; /* corrigé */
+font-colour:black
 }
+
 
 #jwst-header.animate {
   transform: scale(1.1);
