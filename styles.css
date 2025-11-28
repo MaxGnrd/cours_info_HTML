@@ -1,20 +1,61 @@
 p {
-  color: wite
+  color: white;
   font-family: "Times New Roman", Times, serif;
   text-align: justify;
   font-size: 18pt;
-  margin-left: 15%;
+  margin-left:5%;
+  font:white;
   background-color: black;
 }
 
 #jwst-header {
   cursor: pointer;
-  transition: transform 0.2s ease;
-  background-color: white; /* corrigé */
-font-colour:black
+  color:black;
+  transition: transform 0.7s ease;
+  background-color: white;
+  
 }
-
+table {margin-left:5%;
+background-color:black;
+font:white;
+}
 
 #jwst-header.animate {
   transform: scale(1.1);
+  
 }
+h1 {
+  
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+  font-size: 18pt;
+  margin-left: 5%;
+  background-color:black;
+  color: white;
+  
+}
+body {
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+  font-size: 18pt;
+  margin-left: 5%;
+  font:white;
+  background-color:black;
+  margin-right: 5%;
+  }
+a {margin-left: 5%;}
+ li{color:#FFFFFF;
+ margin-left: 5%;}
+ 
+ header
+ {background-color:black;
+ font:white;
+ }
+
+h2{
+ background-color:black;
+color: white;}
+footer{ background-color:black;
+color: white;
+margin-right: 5%;
+  }
