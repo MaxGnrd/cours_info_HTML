@@ -4,7 +4,6 @@ p {
   text-align: justify;
   font-size: 18pt;
   margin-left:5%;
-  font:white;
   background-color: black;
 }
 
@@ -17,7 +16,6 @@ p {
 }
 table {margin-left:5%;
 background-color:black;
-font:white;
 }
 
 #jwst-header.animate {
@@ -39,7 +37,6 @@ body {
   text-align: justify;
   font-size: 18pt;
   margin-left: 5%;
-  font:white;
   background-color:black;
   margin-right: 5%;
   }
@@ -49,7 +46,6 @@ a {margin-left: 5%;}
  
  header
  {background-color:black;
- font:white;
  }
 
 h2{
